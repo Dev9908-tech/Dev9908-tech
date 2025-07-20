@@ -2,10 +2,6 @@
 
 **👨‍🎓 Computer Science Postgraduate | 🧑‍💻 Full-Stack Developer | 🌐 Web & IoT Enthusiast**  
 Bilaspur, Chhattisgarh, India  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devlal-patel-7467b1145)  
-[![GitHub](https://img.shields.io/badge/GitHub-Dev9908--tech-black?logo=github)](https://github.com/Dev9908-tech)  
-[![Instagram](https://img.shields.io/badge/Instagram-%40erasmus__careys-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/erasmus_careys)
-
 ---
 
 ### 🚀 About Me
@@ -54,13 +50,15 @@ I love learning, teaching, and creating projects that solve problems and make li
 
 ---
 
-### 📬 Connect with Me
-
+### 📫  Reach out to collaborate, chat, or brainstorm
 📧 Email: devlalpatel10@gmail.com  
 📍 Location: Bilaspur, Chhattisgarh, India  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/devlal-patel-7467b1145)  
-📸 [Instagram](https://www.instagram.com/erasmus_careys)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devlal-patel-7467b1145)  
+[![GitHub](https://img.shields.io/badge/GitHub-Dev9908--tech-black?logo=github)](https://github.com/Dev9908-tech)  
+[![Instagram](https://img.shields.io/badge/Instagram-%40erasmus__careys-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/erasmus_careys)
+
 
 ---
 
-> “It is not the strongest or the most intelligent who will survive but those who can best manage change.” — Charles Darwin
+🌱 Always learning, building, and sharing.
+📌 Check my projects or drop a message to chat!
