@@ -1,7 +1,8 @@
-# 💻 Devlal Patel
+#                                                                                      💻 Devlal Patel
 
 **👨‍🎓 Computer Science Postgraduate | 🧑‍💻 Full-Stack Developer | 🌐 Web & IoT Enthusiast**  
 Bilaspur, Chhattisgarh, India  
+
 ---
 
 ### 🚀 About Me
