@@ -62,5 +62,6 @@ I love learning, teaching, and creating projects that solve problems and make li
 ---
 
 🌱 Always learning, building, and sharing.
+
 📌 Check my projects or drop a message to chat!
 
