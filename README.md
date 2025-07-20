@@ -61,5 +61,6 @@ I love learning, teaching, and creating projects that solve problems and make li
 
 ---
 
-> “It is not the strongest or the most intelligent who will survive but those who can best manage change.” — Charles Darwin
+🌱 Always learning, building, and sharing.
+📌 Check my projects or drop a message to chat!
 
